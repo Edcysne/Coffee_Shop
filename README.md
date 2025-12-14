@@ -1,2 +1,2 @@
 # Coffee_Shop
- The biggest project i did in 3 weeks of data learning
+A larger Excel-based project. This project aimed to perfect Excel formulas usage such as XLOOKUP, INDEX MATCH, CUBE FUNCTIONS and Power Query functionalities.
